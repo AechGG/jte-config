@@ -1,4 +1,4 @@
 libraries{
-    npm
+    merge = true
     sonarqube
 }
